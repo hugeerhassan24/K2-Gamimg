@@ -1,0 +1,3 @@
+[build]
+  command = "mkdir -p extracted && unzip -q K2_Gaming_Netlify_Ready.zip -d extracted"
+  publish = "extracted/K2_Gaming_Host"
